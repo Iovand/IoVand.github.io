@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="IoVand.github.io" resolutions="1x,2x" timestamp="1535536768740">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="IoVand.github.io" resolutions="1x,2x" timestamp="1535570385949">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="117535725" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="3947544120" ref="index"/>
-    <file name="index.css" crc="148668368" ref="index"/>
-    <file name="nomq_index.css" crc="499554538" ref="index"/>
+    <file name="master_a-master.css" crc="4051322410" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="158550267" ref="index"/>
+    <file name="index.css" crc="115108114" ref="index"/>
+    <file name="nomq_index.css" crc="112871981" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="geomanist-ultra-webfont.woff" crc="462403332"/>
@@ -16,6 +16,9 @@
     <file name="geomanist-medium-webfont.woff" crc="4007358831"/>
     <file name="geomanist-medium-webfont.eot" crc="77220468"/>
     <file name="geomanist-medium-webfont.svg" crc="52509709"/>
+    <file name="geomanist-regular-webfont.woff" crc="4279197988"/>
+    <file name="geomanist-regular-webfont.eot" crc="3809152707"/>
+    <file name="geomanist-regular-webfont.svg" crc="483061004"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -29,9 +32,28 @@
     <file name="webpro.js" crc="4059564322" ref="index"/>
     <file name="musewpdisclosure.js" crc="3883500470" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="mariah-ashby-454585-unsplash.jpg" crc="322722793" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mariah-ashby-454585-unsplash_2x.jpg" crc="381179569" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mariah-ashby-454585-unsplash-u1121-fr.jpg" crc="12590119" ref="index"/>
+    <file name="mariah-ashby-454585-unsplash-u1121-fr_2x.jpg" crc="4015660838" ref="index"/>
+    <file name="mariah-ashby-454585-unsplash-u1121-fr2.jpg" crc="4127675484" ref="index"/>
+    <file name="mariah-ashby-454585-unsplash-u1121-fr_2x2.jpg" crc="415894649" ref="index"/>
+    <file name="mariah-ashby-454585-unsplash-u1121-fr3.jpg" crc="438332628" ref="index"/>
+    <file name="mariah-ashby-454585-unsplash-u1121-fr_2x3.jpg" crc="322722793" ref="index"/>
+    <file name="mariah-ashby-454585-unsplash-u1121-fr4.jpg" crc="75300151" ref="index"/>
+    <file name="mariah-ashby-454585-unsplash-u1121-fr_2x4.jpg" crc="81807092" ref="index"/>
+    <file name="mariah-ashby-454585-unsplash-u1121-fr5.jpg" crc="3866345840" ref="index"/>
+    <file name="mariah-ashby-454585-unsplash-u1121-fr_2x5.jpg" crc="4269211267" ref="index"/>
+    <file name="mariah-ashby-454585-unsplash-u1121-fr6.jpg" crc="465985548" ref="index"/>
+    <file name="mariah-ashby-454585-unsplash-u1121-fr_2x6.jpg" crc="4231166414" ref="index"/>
   </folder>
-  <file name="index.html" crc="450610574" seo="true" mt="1535536309187" redirect="true"/>
+  <file name="index.html" crc="4243239221" seo="true" mt="1535570333220" redirect="true"/>
 </manifest>
