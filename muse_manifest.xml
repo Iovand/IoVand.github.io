@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="IoVand.github.io" resolutions="1x,2x" timestamp="1535570905477">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="IoVand.github.io" resolutions="1x,2x" timestamp="1535661348793">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4051322410" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="158550267" ref="index"/>
-    <file name="index.css" crc="4159167195" ref="index"/>
-    <file name="nomq_index.css" crc="3869748155" ref="index"/>
+    <file name="master_a-master.css" crc="3858692630" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="4287197060" ref="index"/>
+    <file name="index.css" crc="4031042302" ref="index"/>
+    <file name="nomq_index.css" crc="4021502835" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="geomanist-ultra-webfont.woff" crc="462403332"/>
@@ -57,6 +57,170 @@
     <file name="mariah-ashby-454585-unsplash-u1121-fr_2x5.jpg" crc="4269211267" ref="index"/>
     <file name="mariah-ashby-454585-unsplash-u1121-fr6.jpg" crc="465985548" ref="index"/>
     <file name="mariah-ashby-454585-unsplash-u1121-fr_2x6.jpg" crc="4231166414" ref="index"/>
+    <file name="pasted image 960x960.jpg" crc="298558163" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 960x960_2x.jpg" crc="144476838" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="download.jpg" crc="3939928942" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="download_2x.jpg" crc="3940649838" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="94e9035a11b4869bec9266f730084bac.jpg" crc="4139835328" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="94e9035a11b4869bec9266f730084bac_2x.jpg" crc="3935677864" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="microsoft-logo.jpg" crc="34605461" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="microsoft-logo_2x.jpg" crc="62550125" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 960x960174x175.jpg" crc="246755806" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 960x960174x175_2x.jpg" crc="4281311829" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="download174x174.jpg" crc="323207291" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="download174x174_2x.jpg" crc="3891613006" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="94e9035a11b4869bec9266f730084bac174x175.jpg" crc="3780627279" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="94e9035a11b4869bec9266f730084bac174x175_2x.jpg" crc="4232106041" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 960x960155x156.jpg" crc="4264086197" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 960x960155x156_2x.jpg" crc="22131857" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="download155x155.jpg" crc="423098179" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="download155x155_2x.jpg" crc="4293092994" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="94e9035a11b4869bec9266f730084bac155x156.jpg" crc="3777144652" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="94e9035a11b4869bec9266f730084bac155x156_2x.jpg" crc="4194660814" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="microsoft-logo155x156.jpg" crc="4084321453" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="microsoft-logo155x156_2x.jpg" crc="378064292" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 960x960142x143.jpg" crc="3977902608" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 960x960142x143_2x.jpg" crc="70486595" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="download142x142.jpg" crc="3877845797" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="download142x142_2x.jpg" crc="4141027485" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="94e9035a11b4869bec9266f730084bac142x143.jpg" crc="4083211283" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="94e9035a11b4869bec9266f730084bac142x143_2x.jpg" crc="4007701280" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="microsoft-logo142x143.jpg" crc="357328070" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="microsoft-logo142x143_2x.jpg" crc="3931263989" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 960x96095x96.jpg" crc="4022531569" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 960x96095x96_2x.jpg" crc="233092571" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="download95x95.jpg" crc="444547501" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="download95x95_2x.jpg" crc="4122457391" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="94e9035a11b4869bec9266f730084bac95x96.jpg" crc="323171256" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="94e9035a11b4869bec9266f730084bac95x96_2x.jpg" crc="4059488317" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="microsoft-logo95x96.jpg" crc="4016640747" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="microsoft-logo95x96_2x.jpg" crc="368423226" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 960x96087x88.jpg" crc="4030254057" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 960x96087x88_2x.jpg" crc="246755806" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="download87x87.jpg" crc="189785391" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="download87x87_2x.jpg" crc="323207291" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="94e9035a11b4869bec9266f730084bac87x88.jpg" crc="3837082483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="94e9035a11b4869bec9266f730084bac87x88_2x.jpg" crc="3780627279" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="microsoft-logo87x88.jpg" crc="474932097" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="microsoft-logo87x88_2x.jpg" crc="395670660" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 960x96067x68.jpg" crc="399859894" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 960x96067x68_2x.jpg" crc="4160929776" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="download67x67.jpg" crc="3804445926" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="download67x67_2x.jpg" crc="490968805" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="94e9035a11b4869bec9266f730084bac67x68.jpg" crc="81384106" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="94e9035a11b4869bec9266f730084bac67x68_2x.jpg" crc="202378300" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="microsoft-logo67x68.jpg" crc="4027877550" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="microsoft-logo67x68_2x.jpg" crc="4112273414" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="262920931" seo="true" mt="1535570870637" redirect="true"/>
+  <file name="index.html" crc="3863656938" seo="true" mt="1535661322873" redirect="true"/>
 </manifest>
