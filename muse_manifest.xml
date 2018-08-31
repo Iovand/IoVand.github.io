@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="IoVand.github.io" resolutions="1x,2x" timestamp="1535710036852">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="IoVand.github.io" resolutions="1x,2x" timestamp="1535711838006">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4173684790" ref="index:contact"/>
-    <file name="nomq_preview_master_a-master.css" crc="158550267" ref="index:contact"/>
+    <file name="master_a-master.css" crc="4235577648" ref="index:contact"/>
+    <file name="nomq_preview_master_a-master.css" crc="498112839" ref="index:contact"/>
     <file name="index.css" crc="3935338247" ref="index"/>
     <file name="nomq_index.css" crc="3980761969" ref="index"/>
-    <file name="contact.css" crc="3862453934" ref="contact"/>
-    <file name="nomq_contact.css" crc="501917759" ref="contact"/>
+    <file name="contact.css" crc="3917503296" ref="contact"/>
+    <file name="nomq_contact.css" crc="4155130837" ref="contact"/>
   </folder>
   <folder name="fonts">
     <file name="geomanist-ultra-webfont.woff" crc="462403332"/>
@@ -38,10 +38,6 @@
     <file name="musewpdisclosure.js" crc="3883500470" ref="index:contact"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:contact"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
-    <file name="form_check.php" crc="4020933626" ref="contact"/>
-    <file name="form_throttle.php" crc="4259590256" ref="contact"/>
-    <file name="form_process.php" crc="37464564" ref="contact"/>
-    <file name="form-u8181.php" crc="4107896057" ref="contact"/>
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index:contact"/>
@@ -244,5 +240,5 @@
     </file>
   </folder>
   <file name="index.html" crc="48540640" seo="true" mt="1535709718341" redirect="true"/>
-  <file name="contact.html" crc="89241452" seo="true" mt="1535709923739" redirect="true"/>
+  <file name="contact.html" crc="3802124084" seo="true" mt="1535711827529" redirect="true"/>
 </manifest>
