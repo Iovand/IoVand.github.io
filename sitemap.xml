@@ -180,4 +180,10 @@
       <image:loc>http://IoVand.github.io/images/logo_login72x67.png</image:loc>
     </image:image>
   </url>
+  <url>
+    <loc>http://IoVand.github.io/contact.html</loc>
+    <lastmod>2018-08-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
