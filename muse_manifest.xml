@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="IoVand.github.io" resolutions="1x,2x" timestamp="1535661348793">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="IoVand.github.io" resolutions="1x,2x" timestamp="1535709194238">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="3858692630" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="4287197060" ref="index"/>
-    <file name="index.css" crc="4031042302" ref="index"/>
-    <file name="nomq_index.css" crc="4021502835" ref="index"/>
+    <file name="master_a-master.css" crc="3979800513" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="158550267" ref="index"/>
+    <file name="index.css" crc="3935338247" ref="index"/>
+    <file name="nomq_index.css" crc="3980761969" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="geomanist-ultra-webfont.woff" crc="462403332"/>
@@ -221,6 +221,21 @@
     <file name="microsoft-logo67x68_2x.jpg" crc="4112273414" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="logo_login.png" crc="3932912298" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_login102x95.png" crc="82455776" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_login94x87.png" crc="349069904" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_login72x67.png" crc="4281500965" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3863656938" seo="true" mt="1535661322873" redirect="true"/>
+  <file name="index.html" crc="4084122283" seo="true" mt="1535709168858" redirect="true"/>
 </manifest>

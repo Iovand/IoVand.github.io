@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://IoVand.github.io/index.html</loc>
-    <lastmod>2018-08-30</lastmod>
+    <lastmod>2018-08-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -166,6 +166,18 @@
     </image:image>
     <image:image>
       <image:loc>http://IoVand.github.io/images/microsoft-logo67x68_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/logo_login.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/logo_login102x95.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/logo_login94x87.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/logo_login72x67.png</image:loc>
     </image:image>
   </url>
 </urlset>
