@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="IoVand.github.io" resolutions="1x,2x" timestamp="1535993618567">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="IoVand.github.io" resolutions="1x,2x" timestamp="1535993998949">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="419267775" ref="index:contact"/>
-    <file name="nomq_preview_master_a-master.css" crc="414285660" ref="index:contact"/>
+    <file name="master_a-master.css" crc="50571341" ref="index:contact"/>
+    <file name="nomq_preview_master_a-master.css" crc="208842464" ref="index:contact"/>
     <file name="index.css" crc="4026928658" ref="index"/>
     <file name="nomq_index.css" crc="138013920" ref="index"/>
-    <file name="contact.css" crc="197086566" ref="contact"/>
+    <file name="contact.css" crc="3787444849" ref="contact"/>
     <file name="nomq_contact.css" crc="79396243" ref="contact"/>
   </folder>
   <folder name="fonts">
@@ -360,5 +360,5 @@
     </file>
   </folder>
   <file name="index.html" crc="30141860" seo="true" mt="1535993370119" redirect="true"/>
-  <file name="contact.html" crc="67489166" seo="true" mt="1535993551128" redirect="true"/>
+  <file name="contact.html" crc="102895738" seo="true" mt="1535993968523" redirect="true"/>
 </manifest>
