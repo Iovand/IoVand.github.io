@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://IoVand.github.io/index.html</loc>
-    <lastmod>2018-08-31</lastmod>
+    <lastmod>2018-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -182,8 +182,128 @@
   </url>
   <url>
     <loc>http://IoVand.github.io/contact.html</loc>
-    <lastmod>2018-08-31</lastmod>
+    <lastmod>2018-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/whatsapp-512.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/whatsapp-512_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/mail.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/mail_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/discord%20logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/discord%20logo_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/money.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/money_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/paypal-512.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/paypal-512_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/whatsapp-51236x36.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/whatsapp-51236x36_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/mail36x36.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/mail36x36_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/discord%20logo36x36.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/discord%20logo36x36_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/money36x36.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/money36x36_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/paypal-51236x36.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/paypal-51236x36_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/whatsapp-51228x28.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/whatsapp-51228x28_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/mail28x28.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/mail28x28_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/discord%20logo28x28.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/discord%20logo28x28_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/money28x28.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/money28x28_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/paypal-51228x28.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/paypal-51228x28_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/whatsapp-51215x15.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/whatsapp-51215x15_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/mail15x15.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/mail15x15_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/discord%20logo15x15.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/discord%20logo15x15_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/money15x15.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/money15x15_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/paypal-51215x15.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IoVand.github.io/images/paypal-51215x15_2x.png</image:loc>
+    </image:image>
   </url>
 </urlset>
