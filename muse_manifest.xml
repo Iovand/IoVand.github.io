@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.IoVand.Cf,iovand.github.io" resolutions="1x,2x" timestamp="1536048587698">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.IoVand.Cf,iovand.github.io" resolutions="1x,2x" timestamp="1536048791246">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="288254294" ref="index:contact"/>
-    <file name="nomq_preview_master_a-master.css" crc="414285660" ref="index:contact"/>
+    <file name="master_a-master.css" crc="4058205989" ref="index:contact"/>
+    <file name="nomq_preview_master_a-master.css" crc="208842464" ref="index:contact"/>
     <file name="index.css" crc="303631781" ref="index"/>
     <file name="nomq_index.css" crc="427942891" ref="index"/>
-    <file name="contact.css" crc="95441669" ref="contact"/>
-    <file name="nomq_contact.css" crc="243819293" ref="contact"/>
+    <file name="contact.css" crc="272524025" ref="contact"/>
+    <file name="nomq_contact.css" crc="3810026622" ref="contact"/>
   </folder>
   <folder name="fonts">
     <file name="geomanist-ultra-webfont.woff" crc="462403332"/>
@@ -390,5 +390,5 @@
     </file>
   </folder>
   <file name="index.html" crc="4057464285" seo="true" mt="1536048454749" redirect="true"/>
-  <file name="contact.html" crc="113893113" seo="true" mt="1536048530358" redirect="true"/>
+  <file name="contact.html" crc="3939256369" seo="true" mt="1536048742120" redirect="true"/>
 </manifest>
