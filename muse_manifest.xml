@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="IoVand.github.io" resolutions="1x,2x" timestamp="1535993998949">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.IoVand.Cf,iovand.github.io" resolutions="1x,2x" timestamp="1536048587698">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="50571341" ref="index:contact"/>
-    <file name="nomq_preview_master_a-master.css" crc="208842464" ref="index:contact"/>
-    <file name="index.css" crc="4026928658" ref="index"/>
-    <file name="nomq_index.css" crc="138013920" ref="index"/>
-    <file name="contact.css" crc="3787444849" ref="contact"/>
-    <file name="nomq_contact.css" crc="79396243" ref="contact"/>
+    <file name="master_a-master.css" crc="288254294" ref="index:contact"/>
+    <file name="nomq_preview_master_a-master.css" crc="414285660" ref="index:contact"/>
+    <file name="index.css" crc="303631781" ref="index"/>
+    <file name="nomq_index.css" crc="427942891" ref="index"/>
+    <file name="contact.css" crc="95441669" ref="contact"/>
+    <file name="nomq_contact.css" crc="243819293" ref="contact"/>
   </folder>
   <folder name="fonts">
     <file name="geomanist-ultra-webfont.woff" crc="462403332"/>
@@ -238,127 +238,157 @@
     <file name="logo_login72x67.png" crc="4281500965" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="whatsapp-512.png" crc="3826346042" seo="true" ref="contact">
+    <file name="whatsapp-51236x36.png" crc="2303980" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="whatsapp-512_2x.png" crc="4185131873" seo="true" ref="contact">
+    <file name="whatsapp-51236x36_2x.png" crc="4069833291" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="mail.png" crc="4236202589" seo="true" ref="contact">
+    <file name="mail36x36.png" crc="135635811" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="mail_2x.png" crc="233074205" seo="true" ref="contact">
+    <file name="mail36x36_2x.png" crc="19517314" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="discord logo.png" crc="4256457778" seo="true" ref="contact">
+    <file name="discord logo36x36.png" crc="94831473" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="discord logo_2x.png" crc="322336056" seo="true" ref="contact">
+    <file name="discord logo36x36_2x.png" crc="4163352445" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="money.png" crc="445865388" seo="true" ref="contact">
+    <file name="money36x36.png" crc="3828793879" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="money_2x.png" crc="3850992299" seo="true" ref="contact">
+    <file name="money36x36_2x.png" crc="112578200" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="paypal-512.png" crc="4254142305" seo="true" ref="contact">
+    <file name="paypal-51236x36.png" crc="4275367128" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="paypal-512_2x.png" crc="415215034" seo="true" ref="contact">
+    <file name="paypal-51236x36_2x.png" crc="3908782857" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="whatsapp-51236x36.png" crc="4242194493" seo="true" ref="contact">
+    <file name="whatsapp-51250x50.png" crc="4225373348" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="whatsapp-51236x36_2x.png" crc="3803150289" seo="true" ref="contact">
+    <file name="whatsapp-51250x50_2x.png" crc="368815475" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="mail36x36.png" crc="3883378492" seo="true" ref="contact">
+    <file name="mail50x50.png" crc="3882781292" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="mail36x36_2x.png" crc="371094862" seo="true" ref="contact">
+    <file name="mail50x50_2x.png" crc="421086065" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="discord logo36x36.png" crc="4044496721" seo="true" ref="contact">
+    <file name="discord logo50x50.png" crc="4016188217" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="discord logo36x36_2x.png" crc="3996225937" seo="true" ref="contact">
+    <file name="discord logo50x50_2x.png" crc="3827530345" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="money36x36.png" crc="4067844390" seo="true" ref="contact">
+    <file name="money50x50.png" crc="4067801124" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="money36x36_2x.png" crc="3893535615" seo="true" ref="contact">
+    <file name="money50x50_2x.png" crc="193798648" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="paypal-51236x36.png" crc="123798048" seo="true" ref="contact">
+    <file name="paypal-51250x50.png" crc="115916523" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="paypal-51236x36_2x.png" crc="3949392924" seo="true" ref="contact">
+    <file name="paypal-51250x50_2x.png" crc="3770899523" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="whatsapp-51228x28.png" crc="277583785" seo="true" ref="contact">
+    <file name="whatsapp-51235x35.png" crc="298638949" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="whatsapp-51228x28_2x.png" crc="3770716161" seo="true" ref="contact">
+    <file name="whatsapp-51235x35_2x.png" crc="214519119" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="mail28x28.png" crc="4243510400" seo="true" ref="contact">
+    <file name="mail35x35.png" crc="272262090" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="mail28x28_2x.png" crc="4063259342" seo="true" ref="contact">
+    <file name="mail35x35_2x.png" crc="15851351" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="discord logo28x28.png" crc="3950616182" seo="true" ref="contact">
+    <file name="discord logo35x35.png" crc="434767818" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="discord logo28x28_2x.png" crc="63269188" seo="true" ref="contact">
+    <file name="discord logo35x35_2x.png" crc="363068234" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="money28x28.png" crc="3840266229" seo="true" ref="contact">
+    <file name="money35x35.png" crc="90835592" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="money28x28_2x.png" crc="501465991" seo="true" ref="contact">
+    <file name="money35x35_2x.png" crc="4130133483" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="paypal-51228x28.png" crc="108754143" seo="true" ref="contact">
+    <file name="paypal-51235x35.png" crc="3771683048" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="paypal-51228x28_2x.png" crc="395370775" seo="true" ref="contact">
+    <file name="paypal-51235x35_2x.png" crc="195022697" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="whatsapp-51215x15.png" crc="122096726" seo="true" ref="contact">
+    <file name="whatsapp-51226x26.png" crc="4118610348" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="whatsapp-51215x15_2x.png" crc="4001024613" seo="true" ref="contact">
+    <file name="whatsapp-51226x26_2x.png" crc="3993455587" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="mail15x15.png" crc="4099047642" seo="true" ref="contact">
+    <file name="mail26x26.png" crc="4064882418" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="mail15x15_2x.png" crc="4087047608" seo="true" ref="contact">
+    <file name="mail26x26_2x.png" crc="3964633851" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="discord logo15x15.png" crc="296641274" seo="true" ref="contact">
+    <file name="discord logo26x26.png" crc="4135339704" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="discord logo15x15_2x.png" crc="3837277212" seo="true" ref="contact">
+    <file name="discord logo26x26_2x.png" crc="441987902" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="money15x15.png" crc="4225467798" seo="true" ref="contact">
+    <file name="money26x26.png" crc="134860827" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="money15x15_2x.png" crc="305273478" seo="true" ref="contact">
+    <file name="money26x26_2x.png" crc="161853200" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="paypal-51215x15.png" crc="501536852" seo="true" ref="contact">
+    <file name="paypal-51226x26.png" crc="3911539684" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="paypal-51215x15_2x.png" crc="3845390222" seo="true" ref="contact">
+    <file name="paypal-51226x26_2x.png" crc="3983667530" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="whatsapp-51218x18.png" crc="264589315" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="whatsapp-51218x18_2x.png" crc="298638949" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="mail18x18.png" crc="3766046599" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="mail18x18_2x.png" crc="272262090" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="discord logo18x18.png" crc="4157246798" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="discord logo18x18_2x.png" crc="434767818" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="money18x18.png" crc="36544330" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="money18x18_2x.png" crc="90835592" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="paypal-51218x18.png" crc="341616755" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="paypal-51218x18_2x.png" crc="3771683048" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="30141860" seo="true" mt="1535993370119" redirect="true"/>
-  <file name="contact.html" crc="102895738" seo="true" mt="1535993968523" redirect="true"/>
+  <file name="index.html" crc="4057464285" seo="true" mt="1536048454749" redirect="true"/>
+  <file name="contact.html" crc="113893113" seo="true" mt="1536048530358" redirect="true"/>
 </manifest>
