@@ -306,4 +306,10 @@
       <image:loc>http://www.IoVand.Cf/images/paypal-51218x18_2x.png</image:loc>
     </image:image>
   </url>
+  <url>
+    <loc>http://www.IoVand.Cf/mail.html</loc>
+    <lastmod>2018-09-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
