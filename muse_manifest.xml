@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.IoVand.Cf,iovand.github.io" resolutions="1x,2x" timestamp="1536062967078">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.IoVand.Cf,iovand.github.io" resolutions="1x,2x" timestamp="1536817479985">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4281394551" ref="index:contact"/>
-    <file name="nomq_preview_master_a-master.css" crc="284280464" ref="index:contact"/>
-    <file name="index.css" crc="394115885" ref="index"/>
-    <file name="nomq_index.css" crc="3893577694" ref="index"/>
-    <file name="contact.css" crc="3960868563" ref="contact"/>
-    <file name="nomq_contact.css" crc="3775853313" ref="contact"/>
+    <file name="master_a-master.css" crc="152336587" ref="index:contact"/>
+    <file name="nomq_preview_master_a-master.css" crc="3953004461" ref="index:contact"/>
+    <file name="index.css" crc="4054376056" ref="index"/>
+    <file name="nomq_index.css" crc="4086942504" ref="index"/>
+    <file name="contact.css" crc="4201829596" ref="contact"/>
+    <file name="nomq_contact.css" crc="137404047" ref="contact"/>
   </folder>
   <folder name="fonts">
     <file name="geomanist-ultra-webfont.woff" crc="462403332"/>
@@ -239,12 +239,6 @@
     <file name="logo_login72x67.png" crc="4281500965" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="whatsapp-51236x36.png" crc="2303980" seo="true" ref="contact">
-      <caption webpage="contact" alt=""/>
-    </file>
-    <file name="whatsapp-51236x36_2x.png" crc="4069833291" seo="true" ref="contact">
-      <caption webpage="contact" alt=""/>
-    </file>
     <file name="mail36x36.png" crc="135635811" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
@@ -267,12 +261,6 @@
       <caption webpage="contact" alt=""/>
     </file>
     <file name="paypal-51236x36_2x.png" crc="3908782857" seo="true" ref="contact">
-      <caption webpage="contact" alt=""/>
-    </file>
-    <file name="whatsapp-51250x50.png" crc="4225373348" seo="true" ref="contact">
-      <caption webpage="contact" alt=""/>
-    </file>
-    <file name="whatsapp-51250x50_2x.png" crc="368815475" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
     <file name="mail50x50.png" crc="3882781292" seo="true" ref="contact">
@@ -299,12 +287,6 @@
     <file name="paypal-51250x50_2x.png" crc="3770899523" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="whatsapp-51235x35.png" crc="298638949" seo="true" ref="contact">
-      <caption webpage="contact" alt=""/>
-    </file>
-    <file name="whatsapp-51235x35_2x.png" crc="214519119" seo="true" ref="contact">
-      <caption webpage="contact" alt=""/>
-    </file>
     <file name="mail35x35.png" crc="272262090" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
@@ -329,12 +311,6 @@
     <file name="paypal-51235x35_2x.png" crc="195022697" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="whatsapp-51226x26.png" crc="4118610348" seo="true" ref="contact">
-      <caption webpage="contact" alt=""/>
-    </file>
-    <file name="whatsapp-51226x26_2x.png" crc="3993455587" seo="true" ref="contact">
-      <caption webpage="contact" alt=""/>
-    </file>
     <file name="mail26x26.png" crc="4064882418" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
@@ -357,12 +333,6 @@
       <caption webpage="contact" alt=""/>
     </file>
     <file name="paypal-51226x26_2x.png" crc="3983667530" seo="true" ref="contact">
-      <caption webpage="contact" alt=""/>
-    </file>
-    <file name="whatsapp-51218x18.png" crc="264589315" seo="true" ref="contact">
-      <caption webpage="contact" alt=""/>
-    </file>
-    <file name="whatsapp-51218x18_2x.png" crc="298638949" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
     <file name="mail18x18.png" crc="3766046599" seo="true" ref="contact">
@@ -390,6 +360,6 @@
       <caption webpage="contact" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3927572068" seo="true" mt="1536062921902" redirect="true"/>
-  <file name="contact.html" crc="4114517904" seo="true" mt="1536062921902" redirect="true"/>
+  <file name="index.html" crc="3783438301" seo="true" mt="1536817428299" redirect="true"/>
+  <file name="contact.html" crc="200906521" seo="true" mt="1536817210260" redirect="true"/>
 </manifest>
